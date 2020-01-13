@@ -10,8 +10,10 @@ print_business_card(bob)
 
 
 def display_rainbow(color) 
-  puts + color[0] + " " + color[1]
+ 
 end
+
+display_rainbow([])
 
 red = ["R: ", 'red']
 orange = ["O: ", 'orange']
