@@ -13,7 +13,7 @@ def display_rainbow(color)
  
 end
 
-display_rainbow([])
+display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
 
 red = ["R: ", 'red']
 orange = ["O: ", 'orange']
